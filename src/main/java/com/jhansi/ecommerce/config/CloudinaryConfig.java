@@ -14,9 +14,9 @@ public class CloudinaryConfig {
 
         return new Cloudinary(
                 Map.of(
-                        "cloud_name", "dttmksxud",
-                        "api_key", "319538974549338",
-                        "api_secret", "bR7yJx6p2MjuKThwfJzszIPFcXw"
+                        "cloud_name", "paste your name ",
+                        "api_key", "paste your key",
+                        "api_secret", "paste your secret"
                 )
         );
     }
